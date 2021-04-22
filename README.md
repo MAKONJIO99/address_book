@@ -22,7 +22,7 @@ This will clone the repository into your local folder
  CSS
  Javascript
  Git
-### Live Site
-View [live](https://makonjio99.github.io/address_book/)
-Licence
-This project is under the [MIT licence](licence)
+## Live Site
+#### View [live](https://makonjio99.github.io/address_book/)
+## Licence
+####This project is under the [MIT licence](licence)
